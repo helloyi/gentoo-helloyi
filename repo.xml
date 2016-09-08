@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repositories version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>gentoo-helloyi</name>
+    <description>Custom Gentoo Overlay from helloyi.</description>
+    <homepage>https://github.com/helloyi/gentoo-helloyi</homepage>
+    <owner type="project">
+      <email>open.hfc@gmail.com</email>
+      <name>gentoo-helloyi</name>
+    </owner>
+    <source type="git">git://github.com/helloyi/gentoo-helloyi.git</source>
+  </repo>
+</repositories>
