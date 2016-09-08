@@ -7,7 +7,7 @@ inherit unpacker eutils
 DESCRIPTION="N1"
 HOMEPAGE="http://www.nylas.com/"
 
-SRC_URI_AMD64="https://edgehill.s3-us-west-2.amazonaws.com/${PV}-b0ec335/linux-deb/x64/N1.deb"
+SRC_URI_AMD64="https://edgehill.s3-us-west-2.amazonaws.com/${PV}-93ef779/linux-deb/x64/N1.deb"
 SRC_URI="
     amd64? ( ${SRC_URI_AMD64} )
 "
